@@ -1,4 +1,5 @@
-Knottr
+## Knottr
+
 Knottr is a modern social networking application built with Next.js and TypeScript. It enables users to connect, share, and interact with their peers through a seamless and engaging interface.
 
 ## Features
