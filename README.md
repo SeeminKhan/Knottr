@@ -38,7 +38,7 @@ cd Knottr
 npm install
 ```
 
-###Environment Variables
+### Environment Variables
 
 Create a .env file in the root directory and add the following variables:
 ```bash
@@ -48,7 +48,7 @@ CLERK_API_KEY=<your-clerk-api-key>
 ```
 Replace <your-clerk-frontend-api> and <your-clerk-api-key> with your actual Clerk API keys.
 
-###Run the Application
+### Run the Application
 
 Start the development server:
 ```bash
